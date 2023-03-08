@@ -9,6 +9,5 @@ import lombok.EqualsAndHashCode;
 @AllArgsConstructor
 @EqualsAndHashCode
 public class SimpleDTO {
-
     private String content;
 }
